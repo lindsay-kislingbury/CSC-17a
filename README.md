@@ -1,1 +1,2 @@
-# SUMC_CSC_17A_Copy
+# 2021_Summer_CSC_CIS_17a
+Programming C++:Objects
